@@ -279,7 +279,7 @@
 
 @media screen and (max-width:640px){
      .header{
-        width: 400px;
+        width: 390px;
         margin: 0 auto;
      }
     .header-section1{
@@ -288,7 +288,7 @@
       
     }
     .header-section2{
-        width: 400px;
+        width: 370px;
         height: auto;
         flex-direction: column;
     }
@@ -324,7 +324,7 @@
      }
      .section1-all{
         /* border: 1px solid; */
-        width: 410px; 
+        width: 370px; 
         margin:0;
      } 
      .categories{
@@ -340,24 +340,27 @@
       .catagorie-card1,
       .catagorie-card2,
       .catagorie-card3{
+        /* border: 1px solid; */
         width: 300px;
         border: 1px solid;
       }
       .section2{
+        /* border: 1px solid; */
         height: auto;
         text-align: center;
-        width: 400px;
+        width: 390px;
         margin: 0 auto;
       }
       .section2-cards{
         flex-direction: column;
-        margin-left:15px ;
+        /* margin: 0 auto; */
+        margin-left:10px ;
       }
       .section3{
         height: auto;
         text-align: center;
         width: 400px;
-        margin: 0 auto;
+        margin: 60 auto;
       }
       .section3-cards{
         flex-direction: column;
